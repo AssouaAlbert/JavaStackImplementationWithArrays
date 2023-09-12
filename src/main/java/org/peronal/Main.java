@@ -3,6 +3,8 @@ public class Main {
 
 
     public static void main(String[] args) {
+        long n = 10;
+        int d = (int)n;
         Stack stack = new Stack();
         stack.push(1);
         stack.push(2);

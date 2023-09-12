@@ -30,5 +30,7 @@ public class Stack {
     protected void peek() {
         System.out.println("Stack: " + Arrays.toString(items));
     }
+public static void main(String[] args){
 
+}
 }
